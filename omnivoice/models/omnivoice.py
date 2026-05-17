@@ -766,7 +766,7 @@ class OmniVoice(PreTrainedModel):
             generated_audio = remove_silence(
                 generated_audio,
                 self.sampling_rate,
-                mid_sil=500,
+                mid_sil=800,
                 lead_sil=100,
                 trail_sil=100,
             )
