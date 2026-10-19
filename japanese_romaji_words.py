@@ -65,4 +65,8 @@ JAPANESE_ROMAJI_WORDS = {
     "aototoputo", "utoto", "gugen", "ningen", "utsusu", "lucci", "kaku",
     "jaguar", "saul", "newkama", "kenpo", "shonen", "pudding", "amazon",
     "linlin",
+
+    # Tu va ten moi trong bai full chuong 1195 va 1196
+    "asperia", "manmayer", "franky", "colin", "ripley", "road", "bjorn",
+    "johanna", "eng", "killingham", "longinus", "jamble", "meal", "jermar",
 }
