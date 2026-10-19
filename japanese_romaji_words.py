@@ -69,4 +69,17 @@ JAPANESE_ROMAJI_WORDS = {
     # Tu va ten moi trong bai full chuong 1195 va 1196
     "asperia", "manmayer", "franky", "colin", "ripley", "road", "bjorn",
     "johanna", "eng", "killingham", "longinus", "jamble", "meal", "jermar",
+
+    # Tu va ten moi trong ba bai phan tich Sanji
+    "discovery", "dio", "moody", "baratie", "roxanne", "nojiko", "genzo",
+    "alvida", "big", "mom", "vivi", "netflix", "alabasta", "little", "garden",
+    "bon", "clay", "conis", "long", "ring", "land", "gina", "kalifa",
+    "water", "seven", "lola", "keimi", "hattori", "sweet", "pea", "naito",
+    "carrot", "viola", "monet", "cosette", "osome", "stussy", "york",
+    "black", "maria", "whiskey", "peak", "foxy", "hody", "jones", "boa",
+    "hancock", "cavendish", "g5", "smoker", "trebol", "sandersonia",
+    "coc", "cocking", "cooking", "king", "all", "blue", "gin", "krieg",
+    "pearl", "shakky", "eshark", "vergo", "daz", "bones", "yama", "senor",
+    "pink", "eiichiro", "cyan", "yonji", "jaygarcia", "saturn", "seraphim",
+    "niji", "stealth", "suke", "pokemon", "twitter", "chuji",
 }
