@@ -82,4 +82,11 @@ JAPANESE_ROMAJI_WORDS = {
     "pearl", "shakky", "eshark", "vergo", "daz", "bones", "yama", "senor",
     "pink", "eiichiro", "cyan", "yonji", "jaygarcia", "saturn", "seraphim",
     "niji", "stealth", "suke", "pokemon", "twitter", "chuji",
+
+    # Tu romaji va ten rieng moi trong bai gia thuyet luc dia Mu
+    "mu", "oda", "nika", "atomu", "amaterasu", "james", "churchward",
+    "james churchward", "merlin", "wizard", "merlin the wizard", "naacal",
+    "atlantis", "harley", "maya", "mother", "flame", "mother flame", "ra",
+    "sol", "olorun", "tot", "musica", "tot musica", "gurren", "lagann",
+    "gurren lagann",
 }
