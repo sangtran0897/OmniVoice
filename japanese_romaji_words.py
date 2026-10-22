@@ -1,5 +1,4 @@
 """Danh sach tu romaji va ten rieng dung de tinh duration cho TTS."""
-
 JAPANESE_ROMAJI_WORDS = {
     "shodai", "nidai", "sandai", "kitetsu", "venusjuro", "nusjuro", "zoro", "roronoa",
     "shimotsuki", "kozuki", "kurozumi", "fugetsu", "uzuki", "amatsuki", "vinsmoke",
@@ -47,46 +46,46 @@ JAPANESE_ROMAJI_WORDS = {
     "shirahoshi", "charlos", "rosward", "marshall", "teach", "rocks", "xebec", "magellan",
     "riku", "wapol", "dressrosa", "punk", "hazard", "marijo", "poseidon", "impel",
     "down", "tontatta", "drum",
-
     # Tu va ten moi trong bai Yvankov
     "killing", "worstgen", "okama", "kamabakka", "iva", "dragon", "crocodile",
     "ope", "ope ope", "furo", "doc", "madam", "shyarly", "karate", "sabo",
     "lulusia", "adam", "eva", "noah", "babel", "uranus", "attack", "titan",
     "vegapunk", "clover", "ohara", "shanks", "ginny", "figarland", "lunaria",
-    "nico", "horu", "horu horu", "kuja", "tritoma", "pluton", "crocomom",
-    "croco",
-
+    "nico", "horu", "horu horu", "kuja", "tritoma", "pluton", "crocomom", "croco",
     # Tu va ten moi trong bai chuong 1196 day du
     "edison", "kangaroo", "yvan", "judge", "ichiji", "chopper", "clara",
     "dream", "output", "trance", "log", "out", "mule", "manga", "plus",
-
     # Tu va ten moi trong bai phan tich chuong 1196
-    "saint", "jerma", "kanji", "furigana", "yume", "shutsuryoku",
-    "aototoputo", "utoto", "gugen", "ningen", "utsusu", "lucci", "kaku",
-    "jaguar", "saul", "newkama", "kenpo", "shonen", "pudding", "amazon",
-    "linlin",
-
+    "saint", "jerma", "kanji", "furigana", "yume", "shutsuryoku", "aototoputo",
+    "utoto", "gugen", "ningen", "utsusu", "lucci", "kaku", "jaguar", "saul",
+    "newkama", "kenpo", "shonen", "pudding", "amazon", "linlin",
     # Tu va ten moi trong bai full chuong 1195 va 1196
     "asperia", "manmayer", "franky", "colin", "ripley", "road", "bjorn",
     "johanna", "eng", "killingham", "longinus", "jamble", "meal", "jermar",
-
     # Tu va ten moi trong ba bai phan tich Sanji
     "discovery", "dio", "moody", "baratie", "roxanne", "nojiko", "genzo",
     "alvida", "big", "mom", "vivi", "netflix", "alabasta", "little", "garden",
-    "bon", "clay", "conis", "long", "ring", "land", "gina", "kalifa",
-    "water", "seven", "lola", "keimi", "hattori", "sweet", "pea", "naito",
-    "carrot", "viola", "monet", "cosette", "osome", "stussy", "york",
-    "black", "maria", "whiskey", "peak", "foxy", "hody", "jones", "boa",
-    "hancock", "cavendish", "g5", "smoker", "trebol", "sandersonia",
-    "coc", "cocking", "cooking", "king", "all", "blue", "gin", "krieg",
-    "pearl", "shakky", "eshark", "vergo", "daz", "bones", "yama", "senor",
-    "pink", "eiichiro", "cyan", "yonji", "jaygarcia", "saturn", "seraphim",
-    "niji", "stealth", "suke", "pokemon", "twitter", "chuji",
-
+    "bon", "clay", "conis", "long", "ring", "land", "gina", "kalifa", "water",
+    "seven", "lola", "keimi", "hattori", "sweet", "pea", "naito", "carrot",
+    "viola", "monet", "cosette", "osome", "stussy", "york", "black", "maria",
+    "whiskey", "peak", "foxy", "hody", "jones", "boa", "hancock", "cavendish",
+    "g5", "smoker", "trebol", "sandersonia", "coc", "cocking", "cooking", "king",
+    "all", "blue", "gin", "krieg", "pearl", "shakky", "eshark", "vergo", "daz",
+    "bones", "yama", "senor", "pink", "eiichiro", "cyan", "yonji", "jaygarcia",
+    "saturn", "seraphim", "niji", "stealth", "suke", "pokemon", "twitter", "chuji",
     # Tu romaji va ten rieng moi trong bai gia thuyet luc dia Mu
     "mu", "oda", "nika", "atomu", "amaterasu", "james", "churchward",
     "james churchward", "merlin", "wizard", "merlin the wizard", "naacal",
     "atlantis", "harley", "maya", "mother", "flame", "mother flame", "ra",
-    "sol", "olorun", "tot", "musica", "tot musica", "gurren", "lagann",
-    "gurren lagann",
+    "sol", "olorun", "tot", "musica", "tot musica", "gurren", "lagann", "gurren lagann",
+    # Tu va ten rieng moi trong bai Wano, Zoro va Elbaf
+    "bartolomeo", "camie", "toei", "ida", "john", "giant", "john giant",
+    "wotan", "pan", "big pan", "sebastian", "skaldi", "ronja", "joanna",
+    "karen", "ylva", "olaf", "bent", "mag", "carmel", "mother carmel",
+    "kureha", "dadan", "curly dadan", "shueisha", "uta", "film red",
+    "the boys", "anne", "rouge", "ace", "absolute batman", "instagram",
+    "tessho", "genda", "tessho genda", "mayumi", "tanaka", "mayumi tanaka",
+    "gear second",
+    # Tu va ten rieng moi trong bai bi an vo dung cua Wano, Zoro va Elbaf
+    "colon", "kokoro", "shells",
 }
