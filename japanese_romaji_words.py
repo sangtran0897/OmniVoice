@@ -88,4 +88,14 @@ JAPANESE_ROMAJI_WORDS = {
     "gear second",
     # Tu va ten rieng moi trong bai bi an vo dung cua Wano, Zoro va Elbaf
     "colon", "kokoro", "shells",
+    # Tu va ten rieng moi trong bai gia thuyet gia toc Figarland
+    "monkey", "davy", "garling", "gold", "hajrudin", "garp", "buggy",
+    "marineford", "rocky", "port", "rocky port", "cerberus", "lunarian",
+    "fengadi", "figadi", "skoll", "hati", "fenrir", "ragnarok",
+    "popol", "vuh", "popol vuh", "hunahpu", "xbalanque", "xibalba",
+    "castor", "pollux", "zeus", "dioscuri", "romulus", "remus", "rome",
+    "celt", "ireland", "manannan", "mac", "lir", "manannan mac lir", "donn",
+    "dawn", "west blue", "fragarach", "griffon", "davy jones", "magnolia",
+    "fairy", "vearth", "fairy vearth", "ark", "maxim", "ark maxim", "berka",
+    "summers",
 }
