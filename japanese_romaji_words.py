@@ -98,4 +98,9 @@ JAPANESE_ROMAJI_WORDS = {
     "dawn", "west blue", "fragarach", "griffon", "davy jones", "magnolia",
     "fairy", "vearth", "fairy vearth", "ark", "maxim", "ark maxim", "berka",
     "summers",
+    # Tu va ten rieng moi trong bai hoi dap Buggy, Usop, Jinbe va Zoro
+    "morgans", "big news morgans", "saga", "simba", "aesop", "fable", "eustass", "kid",
+    "eustass kid", "heart", "going merry", "going lufy senpai", "barto", "club", "barto club", "thousand sunny",
+    "vivre", "vivre card", "hyouzou", "bandana", "nobuhiro", "watsuki", "nobuhiro watsuki", "rurouni",
+    "kenshin", "rurouni kenshin", "mosa",
 }
