@@ -103,4 +103,12 @@ JAPANESE_ROMAJI_WORDS = {
     "eustass kid", "heart", "going merry", "going lufy senpai", "barto", "club", "barto club", "thousand sunny",
     "vivre", "vivre card", "hyouzou", "bandana", "nobuhiro", "watsuki", "nobuhiro watsuki", "rurouni",
     "kenshin", "rurouni kenshin", "mosa",
+    # Tu va ten rieng moi trong bai hint chuong 1197 va Sanji
+    "pewpiece", "zuga", "takai", "zuga takai", "kihaku", "kirin", "ueno",
+    "ryo", "yoku", "ryo yoku", "cross", "guild", "cross guild",
+    "ai", "chikara", "ai no chikara", "bureimono", "newkama land", "jiyu",
+    "onore", "dendoushi", "ai no dendoushi", "katakuri", "catarina", "devon",
+    "catarina devon", "buccaneer", "east blue", "south blue", "north blue",
+    "nikyu", "nikyu nikyu", "calm", "belt", "calm belt", "wind", "granma",
+    "wind granma",
 }
