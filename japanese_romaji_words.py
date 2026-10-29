@@ -110,5 +110,16 @@ JAPANESE_ROMAJI_WORDS = {
     "onore", "dendoushi", "ai no dendoushi", "katakuri", "catarina", "devon",
     "catarina devon", "buccaneer", "east blue", "south blue", "north blue",
     "nikyu", "nikyu nikyu", "calm", "belt", "calm belt", "wind", "granma",
-    "wind granma",
+    "wind granma",    
+    # Tu romaji va ten rieng moi trong bai Sanji va Killing ham
+    "jewelry",
+    "rop",
+    "baile",
+    "rop tu mo baile",
+    "collier",
+    "fortress",
+    "collier fortress",
+    "jabra",
+    "absalom",
+    "wadatsumi",
 }
