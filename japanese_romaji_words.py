@@ -112,14 +112,9 @@ JAPANESE_ROMAJI_WORDS = {
     "nikyu", "nikyu nikyu", "calm", "belt", "calm belt", "wind", "granma",
     "wind granma",    
     # Tu romaji va ten rieng moi trong bai Sanji va Killing ham
-    "jewelry",
-    "rop",
-    "baile",
-    "rop tu mo baile",
-    "collier",
-    "fortress",
-    "collier fortress",
-    "jabra",
-    "absalom",
-    "wadatsumi",
+    "jewelry", "rop", "baile", "rop tu mo baile", "collier", 
+    "fortress", "collier fortress", "jabra", "absalom", "wadatsumi",
+    # Tu romaji va ten rieng moi trong bai Sanji chuong 1197
+    "all blue", "amaru", "bon clay", "maki no yoroi", "panzer", "punk hazard", 
+    "sora", "yoroi", "zaza"
 }
