@@ -116,5 +116,10 @@ JAPANESE_ROMAJI_WORDS = {
     "fortress", "collier fortress", "jabra", "absalom", "wadatsumi",
     # Tu romaji va ten rieng moi trong bai Sanji chuong 1197
     "all blue", "amaru", "bon clay", "maki no yoroi", "panzer", "punk hazard", 
-    "sora", "yoroi", "zaza"
+    "sora", "yoroi", "zaza",
+    # Tu romaji va ten rieng moi trong bai
+    "shepherd", "jupiter", "jupeter", "mooglatan", "ethanbaron", 
+    "marcus", "mars", "peter", "jesus", "nero", "topman", "warcury", 
+    "emet", "guernica", "baroque", "works", "cipher", "pol", "snake", 
+    "gomu", "thousand", "sunny",
 }
