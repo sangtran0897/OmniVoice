@@ -772,4 +772,15 @@ JAPANESE_ROMAJI_WORDS = {
     "coby",
     "kong",
     "gol",
+    # Tu romaji va ten rieng moi trong bai Shanks va Shamrock
+    "abyss",
+    "ascot",
+    "gorosei",
+    "kenjiro",
+    "tsuda",
+    "divine",
+    "departure",
+    "flashback",
+    "final",
+    "tier",
 }
