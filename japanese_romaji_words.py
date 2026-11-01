@@ -783,4 +783,8 @@ JAPANESE_ROMAJI_WORDS = {
     "flashback",
     "final",
     "tier",
+    "mori mori",
+    "hito hito",
+    "gura gura",
+    "yami yami",
 }
