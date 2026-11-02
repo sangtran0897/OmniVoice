@@ -804,4 +804,13 @@ JAPANESE_ROMAJI_WORDS = {
     "aurust",
     "records",
     "punk records",
+    # Tu romaji va ten rieng moi trong bai hint chuong 1198
+    "redon",
+    "deku",
+    "my",
+    "hero",
+    "academia",
+    "my hero academia",
+    "boruto",
+    "spoiler",
 }
