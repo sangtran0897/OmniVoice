@@ -885,4 +885,18 @@ JAPANESE_ROMAJI_WORDS = {
     "saiyan",
     "super saiyan",
     "oozaru",
+    # Tu romaji va ten rieng moi trong bai thanh kiem anh sang cua Imu
+    "arrancar",
+    "sith",
+    "lasagna",
+    "joy boy",
+    "jewelry bonney",
+    "road to laugh tale",
+    "gear five",
+    "monkey lufy",
+    "galileo",
+    "honduras",
+    "ciudad blanca",
+    "la ciudad blanca",
+    "sarugami",
 }
