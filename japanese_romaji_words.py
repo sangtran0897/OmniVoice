@@ -3254,4 +3254,10 @@ JAPANESE_ROMAJI_WORDS = {
     "Strawberry",
     "Tokyo",
     "Yomiuri",
+    "Corvo",
+    "Koma",
+    "Luna",
+    "Oshaka",
+    "Pien",
+    "Translator",
 }
