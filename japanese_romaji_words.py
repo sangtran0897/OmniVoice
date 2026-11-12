@@ -3291,4 +3291,10 @@ JAPANESE_ROMAJI_WORDS = {
     "Weapons",
     "Wukong",
     "Zoans",
+    "Guevara",
+    "Gum",
+    "Kaiju",
+    "Landmark",
+    "Liebe",
+    "Saza",
 }
