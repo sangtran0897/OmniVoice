@@ -3297,4 +3297,9 @@ JAPANESE_ROMAJI_WORDS = {
     "Landmark",
     "Liebe",
     "Saza",
+    "Dango",
+    "Lie",
+    "Sharly",
+    "Sheeran",
+    "Shoujou",
 }
