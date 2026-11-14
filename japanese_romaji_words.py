@@ -3302,4 +3302,11 @@ JAPANESE_ROMAJI_WORDS = {
     "Sharly",
     "Sheeran",
     "Shoujou",
+    "Abraham",
+    "Gautama",
+    "Hotoke",
+    "Masira",
+    "Nefertem",
+    "Siddhartha",
+    "Tathagata",
 }
