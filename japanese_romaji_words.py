@@ -3316,4 +3316,7 @@ JAPANESE_ROMAJI_WORDS = {
     "Otankaina",
     "Rook",
     "Ruku",
+    "Sunde",
+    "Taizai",
+    "Ningenzoku",
 }
