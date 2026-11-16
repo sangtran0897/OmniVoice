@@ -3309,4 +3309,11 @@ JAPANESE_ROMAJI_WORDS = {
     "Nefertem",
     "Siddhartha",
     "Tathagata",
+    "Capcom",
+    "Crunchyroll",
+    "Luke",
+    "Magatsuhi",
+    "Otankaina",
+    "Rook",
+    "Ruku",
 }
