@@ -3319,4 +3319,7 @@ JAPANESE_ROMAJI_WORDS = {
     "Sunde",
     "Taizai",
     "Ningenzoku",
+    "Chainsaw",
+    "Dust",
+    "Kame",
 }
