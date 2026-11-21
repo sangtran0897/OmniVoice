@@ -3334,4 +3334,9 @@ JAPANESE_ROMAJI_WORDS = {
     "Skywalk",
     "Tserriednich",
     "Yomigaeru",
+    "Coeur",
+    "Dengo",
+    "Golia",
+    "Lin",
+    "Zaiant",
 }
