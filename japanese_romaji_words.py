@@ -3354,4 +3354,6 @@ JAPANESE_ROMAJI_WORDS = {
     "Saruyama",
     "Tanzania",
     "Turco",
+    "Christmas",
+    "Locker",
 }
